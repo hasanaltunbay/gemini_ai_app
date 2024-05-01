@@ -14,7 +14,7 @@ With this application, you can solve math problems step by step with artificial 
 
 
 <h3>Architecture and Technologies</h3>
-API: In the context of our application, the API section enables fetching data from the internet.\n
+API: In the context of our application, the API section enables fetching data from the internet.
 
 Image Picker: The 'image_picker' package is a library that allows users to select images from their devices or capture a new photo.
 
