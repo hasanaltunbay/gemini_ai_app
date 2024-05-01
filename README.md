@@ -20,6 +20,16 @@ API: In the context of our application, the API section enables fetching data fr
 
 
 
+
+
+
+
+
+
+
+
+
+
 Image Picker: The 'image_picker' package is a library that allows users to select images from their devices or capture a new photo.
 
 Image Cropper: The 'image cropper' package is a library that enables users to crop images within a Flutter application.
