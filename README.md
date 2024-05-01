@@ -1,4 +1,4 @@
-# gemini_maths_app
+# gemini_ai_app
 
 With this application, you can solve math problems step by step with artificial intelligence if you wish. Alternatively, you can upload a picture to the application to get information about a city or anything else you're interested in, and simply ask the question you want to learn about.
 
@@ -17,5 +17,4 @@ With this application, you can solve math problems step by step with artificial 
 API: In the context of our application, the API section enables fetching data from the internet.
 
 Image Picker: The 'image_picker' package is a library that allows users to select images from their devices or capture a new photo.
-
 Image Cropper: The 'image cropper' package is a library that enables users to crop images within a Flutter application.
